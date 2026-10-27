@@ -2,7 +2,7 @@
 
 A beginner GRC portfolio project. I built a risk register for a **fictional** South African digital bank to practise identifying, scoring, testing and tracking risks the way it's done in banking.
 
-> **Important:** Everything here is fictional and for learning only. The bank, risks, scores, controls, owners, dates and test results are illustrative assumptions. This is not a real audit, regulatory assessment or legal opinion, and no real customer or employer data was used.
+>  Everything here is fictional and for learning only. The bank, risks, scores, controls, owners, dates and test results are illustrative assumptions. This is not a real audit, regulatory assessment or legal opinion, and no real customer or employer data was used.
 
 ## What's in the workbook
 
